@@ -7,6 +7,7 @@ Computer Engineering, RMUTI
 - การศึกษา: วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 - ติดต่อ: puripatp6@email.com
 - GitHub: Painter121
+- Live Demo: [Dormitory Repair Demo](https://painter121.github.io/rmuti-dormitory-demo/)
 
 ---
 
