@@ -1,1 +1,40 @@
-# Phuriphat Malison (Paint)  Computer Engineering, RMUTI   α╕¬α╕Öα╣âα╕êα╕üα╕▓α╕úα╣Çα╕èα╕╖α╣êα╕¡α╕íα╣éα╕óα╕çα╕úα╕░α╕Üα╕Üα╕òα╣êα╕▓α╕ç α╣å α╣Çα╕éα╣ëα╕▓α╕öα╣ëα╕ºα╕óα╕üα╕▒α╕Ö α╕íα╕╡α╕ùα╕▒α╕üα╕⌐α╕░α╕öα╣ëα╕▓α╕Öα╕üα╕▓α╕úα╕₧α╕▒α╕Æα╕Öα╕▓α╣Çα╕ºα╣çα╕Üα╣üα╕¡α╕¢α╕₧α╕Ñα╕┤α╣Çα╕äα╕èα╕▒α╕Ö α╕üα╕▓α╕úα╕ùα╕│ IoT α╣üα╕Ñα╕░α╕äα╕ºα╕▓α╕íα╕¬α╕Öα╣âα╕êα╕öα╣ëα╕▓α╕Öα╣Çα╕äα╕úα╕╖α╕¡α╕éα╣êα╕▓α╕ó α╕èα╕¡α╕Üα╕Öα╕│α╕«α╕▓α╕úα╣îα╕öα╣üα╕ºα╕úα╣îα╕íα╕▓α╣Çα╕èα╕╖α╣êα╕¡α╕íα╕òα╣êα╕¡α╕üα╕▒α╕Üα╕ïα╕¡α╕ƒα╕òα╣îα╣üα╕ºα╕úα╣îα╣Çα╕₧α╕╖α╣êα╕¡α╕¬α╕úα╣ëα╕▓α╕çα╕úα╕░α╕Üα╕Üα╣üα╕Üα╕Üα╕äα╕úα╕Üα╕ºα╕çα╕êα╕ú  - α╕üα╕▓α╕úα╕¿α╕╢α╕üα╕⌐α╕▓: α╕ºα╕┤α╕¿α╕ºα╕üα╕úα╕úα╕íα╕äα╕¡α╕íα╕₧α╕┤α╕ºα╣Çα╕òα╕¡α╕úα╣î α╕íα╕½α╕▓α╕ºα╕┤α╕ùα╕óα╕▓α╕Ñα╕▒α╕óα╣Çα╕ùα╕äα╣éα╕Öα╣éα╕Ñα╕óα╕╡α╕úα╕▓α╕èα╕íα╕çα╕äα╕Ñα╕¡α╕╡α╕¬α╕▓α╕Ö - α╕òα╕┤α╕öα╕òα╣êα╕¡: puripatp6@email.com - GitHub: Painter121  ---  ### Technical Skills  - **Languages:** C, C++, Python, Java, JavaScript, HTML/CSS - **Hardware & IoT:** MicroPython, ESP8266, RFID, DHT22, PWM - **Network:** Cisco Packet Tracer (Subnetting, Routing) - **Web & Backend:** Node.js, Express, React, Vite, Socket.IO, JWT - **Database & Tools:** MySQL, Docker Compose, Nginx, Git  ---  ### Final Project  #### RMUTI Dormitory Management System α╕úα╕░α╕Üα╕Üα╕êα╕▒α╕öα╕üα╕▓α╕úα╕½α╕¡α╕₧α╕▒α╕üα╣üα╕Ñα╕░α╣üα╕êα╣ëα╕çα╕ïα╣êα╕¡α╕íα╕¡α╕¡α╕Öα╣äα╕Ñα╕Öα╣î (α╕¢α╕úα╕┤α╕ìα╕ìα╕▓α╕Öα╕┤α╕₧α╕Öα╕ÿα╣î α╕ºα╕┤α╕¿α╕ºα╕üα╕úα╕úα╕íα╕äα╕¡α╕íα╕₧α╕┤α╕ºα╣Çα╕òα╕¡α╕úα╣î) - React, Node.js (Express) α╣üα╕Ñα╕░ MySQL - Role-based access control α╕¬α╕│α╕½α╕úα╕▒α╕Üα╕Öα╕▒α╕üα╕¿α╕╢α╕üα╕⌐α╕▓ α╕èα╣êα╕▓α╕ç α╣üα╕Ñα╕░α╕£α╕╣α╣ëα╕öα╕╣α╣üα╕Ñα╕úα╕░α╕Üα╕Ü - Real-time repair status α╕öα╣ëα╕ºα╕ó Socket.IO - Database transaction α╕¬α╕│α╕½α╕úα╕▒α╕Üα╕çα╕▓α╕Öα╕¬α╕òα╣çα╕¡α╕üα╣üα╕Ñα╕░α╕üα╕úα╕░α╕Üα╕ºα╕Öα╕üα╕▓α╕úα╕¬α╕│α╕äα╕▒α╕ì - Docker α╣üα╕Ñα╕░ Nginx α╕¬α╕│α╕½α╕úα╕▒α╕Ü deployment  Repository: `rmuti-dormitory` (Private)  ---  ### Course Projects  - **[Computer Vision Scene Classification](/Painter121/computer-vision-mini-project-scene-classification):** EfficientNetB0 α╕¬α╕│α╕½α╕úα╕▒α╕Üα╕êα╕│α╣üα╕Öα╕üα╕áα╕▓α╕₧ α╕₧α╕úα╣ëα╕¡α╕íα╣éα╕íα╣Çα╕öα╕Ñα╕ùα╕╡α╣êα╣Çα╕ùα╕úα╕Öα╣üα╕Ñα╣ëα╕ºα╣üα╕Ñα╕░ Gradio demo - **[Zoo Database](/Painter121/database-mini-project-zoo):** α╣éα╕¢α╕úα╣Çα╕êα╕üα╕òα╣îα╕Éα╕▓α╕Öα╕éα╣ëα╕¡α╕íα╕╣α╕Ñα╣üα╕Ñα╕░α╕úα╕░α╕Üα╕Üα╕êα╕▒α╕öα╕üα╕▓α╕úα╕¬α╕ºα╕Öα╕¬α╕▒α╕òα╕ºα╣îα╕öα╣ëα╕ºα╕ó Node.js, Express α╣üα╕Ñα╕░ MySQL - **[Soil Moisture Monitor](/Painter121/iot-mini-project-soil-moisture):** ESP8266 α╕òα╕úα╕ºα╕êα╕ºα╕▒α╕öα╕äα╕ºα╕▓α╕íα╕èα╕╖α╣ëα╕Öα╣âα╕Öα╕öα╕┤α╕Öα╣üα╕Ñα╕░α╕äα╕ºα╕Üα╕äα╕╕α╕íα╕úα╕╡α╣Çα╕Ñα╕óα╣îα╕£α╣êα╕▓α╕Ö Blynk - **[Fan Controller](/Painter121/microcontroller-mini-project-fan-controller):** MicroPython, DHT22, DS3231, Keypad, LCD α╣üα╕Ñα╕░ PWM  ---  ### Course Labs  - **[Computer Vision Labs](/Painter121/computer-vision-labs):** GLCM Texture, Huffman Coding α╣üα╕Ñα╕░ Connected-Component Labeling - **[Digital Logic Lab](/Painter121/digital-logic-lab-decimal-adder):** Decimal adder circuit α╕öα╣ëα╕ºα╕ó Quartus II α╕₧α╕úα╣ëα╕¡α╕í schematic α╣üα╕Ñα╕░ waveform - **[Computer Network Labs](/Painter121/computer-network-labs):** Subnetting α╣üα╕Ñα╕░ Routing α╕öα╣ëα╕ºα╕ó Cisco Packet Tracer - **[Java OOP Labs](/Painter121/java-oop-labs):** Object-Oriented Programming, GUI α╣üα╕Ñα╕░ file I/O α╕öα╣ëα╕ºα╕ó Java - **[IoT Web Control Labs](/Painter121/iot-web-control-labs):** Web control α╣üα╕Ñα╕░ device status α╕öα╣ëα╕ºα╕ó Firebase - **[Data Structures and Algorithms Labs](/Painter121/data-structures-and-algorithms-labs):** Linked Lists, Stack, BST, Sorting α╣üα╕Ñα╕░ Graph MST α╕öα╣ëα╕ºα╕ó C++ - **[RFID Interfacing](/Painter121/RFID1-2):** α╕çα╕▓α╕Öα╕ùα╕öα╕Ñα╕¡α╕çα╣Çα╕èα╕╖α╣êα╕¡α╕íα╕òα╣êα╕¡α╣üα╕Ñα╕░α╕¡α╣êα╕▓α╕Öα╕éα╣ëα╕¡α╕íα╕╣α╕Ñ RFID  ---  ### Personal Projects  - `icehere` (Private) ΓÇö Windows Desktop AI Gateway with Local MCP Server, Tunnel Client and Guardrails - `project-X` (Private)
+# Phuriphat Malison (Paint)
+
+Computer Engineering, RMUTI
+
+สนใจการพัฒนาเว็บแอปพลิเคชัน IoT ระบบเครือข่าย และการเชื่อมต่อฮาร์ดแวร์กับซอฟต์แวร์เพื่อสร้างระบบแบบครบวงจร
+
+- การศึกษา: วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
+- ติดต่อ: puripatp6@email.com
+- GitHub: Painter121
+
+---
+
+### Technical Skills
+
+- **Languages:** C, C++, Python, Java, JavaScript, HTML/CSS
+- **Hardware & IoT:** MicroPython, ESP8266, RFID, DHT22, PWM
+- **Network:** Cisco Packet Tracer, Subnetting, Routing
+- **Web & Backend:** Node.js, Express, React, Vite, Socket.IO, JWT
+- **Database & Tools:** MySQL, Docker Compose, Nginx, Git
+
+---
+
+### Course Projects
+
+- **[Computer Vision Scene Classification](/Painter121/computer-vision-mini-project-scene-classification):** EfficientNetB0 scene classification with a trained model and Gradio demo
+- **[Zoo Database](/Painter121/database-mini-project-zoo):** Zoo management mini project using Node.js, Express and MySQL
+- **[Soil Moisture Monitor](/Painter121/iot-mini-project-soil-moisture):** ESP8266 soil moisture monitoring with Blynk and relay control
+- **[Fan Controller](/Painter121/microcontroller-mini-project-fan-controller):** MicroPython fan control with DHT22, DS3231, keypad, LCD and PWM
+
+---
+
+### Course Labs
+
+- **[Computer Vision Labs](/Painter121/computer-vision-labs):** GLCM texture features, Huffman coding and connected-component labeling
+- **[Digital Logic Lab](/Painter121/digital-logic-lab-decimal-adder):** Decimal adder circuit in Quartus II with schematic and waveform
+- **[Computer Network Labs](/Painter121/computer-network-labs):** Cisco Packet Tracer labs covering subnetting and routing
+- **[Java OOP Labs](/Painter121/java-oop-labs):** Object-oriented programming, GUI and file I/O in Java
+- **[IoT Web Control Labs](/Painter121/iot-web-control-labs):** Firebase web control, device status and timers
+- **[Data Structures and Algorithms Labs](/Painter121/data-structures-and-algorithms-labs):** Linked lists, stack, BST, sorting and graph MST in C++
+- **[RFID Interfacing](/Painter121/RFID1-2):** RFID interfacing coursework
