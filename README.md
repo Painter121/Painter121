@@ -28,7 +28,7 @@ Computer Engineering, RMUTI
   - เชื่อมต่อสายใยแก้วนำแสงด้วยเครื่อง Fusion Splicer
   - ตรวจเช็กสัญญาณและหาจุดสายขาดด้วยเครื่อง OTDR และ Power Meter
   - ตรวจเช็กคู่สายบนตู้ OLT
-  - ดูภาพหน้างานจริงและแลปเน็ตเวิร์ก: [Computer Network Labs](https://github.com/Painter121/computer-network-labs)
+  - ดูภาพหน้างานจริง: [Computer Network Labs](https://github.com/Painter121/computer-network-labs)
 
 ---
 
