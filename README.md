@@ -5,7 +5,7 @@ Computer Engineering, RMUTI
 
 - การศึกษา: วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 - ติดต่อ: puripatp6@email.com
-- GitHub: https://github.com/Painter121
+- GitHub: Painter121
 
 ---
 
@@ -19,29 +19,42 @@ Computer Engineering, RMUTI
 
 ---
 
-### Featured Project
+### Final Project
 
-#### [RMUTI Dormitory Management System](https://github.com/Painter121/rmuti-dormitory)
+#### RMUTI Dormitory Management System
 ระบบจัดการหอพักและแจ้งซ่อมออนไลน์ (ปริญญานิพนธ์ วิศวกรรมคอมพิวเตอร์)
-- พัฒนาด้วย React, Node.js (Express) และ MySQL
-- จัดการสิทธิ์ผู้ใช้ (RBAC): นักศึกษา, ช่าง, ผู้ดูแลระบบ
-- แจ้งเตือนสถานะงานซ่อม Real-time ด้วย Socket.IO
-- ตัดสต็อกอะไหล่อัตโนมัติด้วย Database Transaction
-- Deploy ด้วย Docker และ Nginx
+- React, Node.js (Express) และ MySQL
+- Role-based access control สำหรับนักศึกษา ช่าง และผู้ดูแลระบบ
+- Real-time repair status ด้วย Socket.IO
+- Database transaction สำหรับงานสต็อกและกระบวนการสำคัญ
+- Docker และ Nginx สำหรับ deployment
+
+Repository: `rmuti-dormitory` (Private)
 
 ---
 
-### Projects & Labs
+### Course Projects
 
-#### Hardware & IoT
-- **[Fan Controller](https://github.com/Painter121/microcontroller-mini-project-fan-controller):** ควบคุมพัดลมด้วย MicroPython รับค่าจาก DHT22, Keypad 4x4, จอ LCD I2C, DS3231 และปรับความเร็วมอเตอร์ด้วย PWM
-- **[Soil Moisture Monitor](https://github.com/Painter121/iot-mini-project-soil-moisture):** วัดความชื้นในดินและสั่งงานปั๊มน้ำด้วย ESP8266 ผ่าน Blynk
-- **[IoT Web Control](https://github.com/Painter121/iot-web-control-labs):** ควบคุมอุปกรณ์และดูสถานะผ่านเว็บด้วย Firebase
-- **[RFID Interfacing](https://github.com/Painter121/RFID1-2):** เชื่อมต่อและอ่านข้อมูลบัตร RFID ด้วย C++
+- **[Computer Vision Scene Classification](/Painter121/computer-vision-mini-project-scene-classification):** EfficientNetB0 สำหรับจำแนกภาพ พร้อมโมเดลที่เทรนแล้วและ Gradio demo
+- **[Zoo Database](/Painter121/database-mini-project-zoo):** โปรเจกต์ฐานข้อมูลและระบบจัดการสวนสัตว์ด้วย Node.js, Express และ MySQL
+- **[Soil Moisture Monitor](/Painter121/iot-mini-project-soil-moisture):** ESP8266 ตรวจวัดความชื้นในดินและควบคุมรีเลย์ผ่าน Blynk
+- **[Fan Controller](/Painter121/microcontroller-mini-project-fan-controller):** MicroPython, DHT22, DS3231, Keypad, LCD และ PWM
 
-#### Network, Algorithms & Systems
-- **[Network Labs](https://github.com/Painter121/computer-network-labs):** จำลองระบบเครือข่าย จัดสรร Subnet และ Routing ด้วย Cisco Packet Tracer
-- **[Computer Vision](https://github.com/Painter121/computer-vision-homework):** ประมวลผลภาพด้วย GLCM Texture, Huffman Coding และ Connected-Component
-- **[Data Structures](https://github.com/Painter121/data-structures-and-algorithms-labs):** โครงสร้างข้อมูล Linked Lists, Stack, BST, Sorting และ Graph MST ใน C++
-- **[Java OOP](https://github.com/Painter121/java-oop-labs):** ระบบร้านค้า, บัญชีธนาคาร และโปรแกรม Cafe GUI ด้วย Java
-- **[Zoo Database](https://github.com/Painter121/database-mini-project-zoo):** ออกแบบฐานข้อมูลและระบบจัดการสวนสัตว์ด้วย Node.js, Express และ MySQL
+---
+
+### Course Labs
+
+- **[Computer Vision Labs](/Painter121/computer-vision-labs):** GLCM Texture, Huffman Coding และ Connected-Component Labeling
+- **[Digital Logic Lab](/Painter121/digital-logic-lab-decimal-adder):** Decimal adder circuit ด้วย Quartus II พร้อม schematic และ waveform
+- **[Computer Network Labs](/Painter121/computer-network-labs):** Subnetting และ Routing ด้วย Cisco Packet Tracer
+- **[Java OOP Labs](/Painter121/java-oop-labs):** Object-Oriented Programming, GUI และ file I/O ด้วย Java
+- **[IoT Web Control Labs](/Painter121/iot-web-control-labs):** Web control และ device status ด้วย Firebase
+- **[Data Structures and Algorithms Labs](/Painter121/data-structures-and-algorithms-labs):** Linked Lists, Stack, BST, Sorting และ Graph MST ด้วย C++
+- **[RFID Interfacing](/Painter121/RFID1-2):** งานทดลองเชื่อมต่อและอ่านข้อมูล RFID
+
+---
+
+### Personal Projects
+
+- `icehere` (Private) — Windows Desktop AI Gateway with Local MCP Server, Tunnel Client and Guardrails
+- `project-X` (Private)
