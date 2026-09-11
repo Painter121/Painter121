@@ -33,7 +33,7 @@ Computer Engineering, RMUTI
 
 ### Course Labs
 
-- **[Computer Vision Labs](https://github.com/Painter121/computer-vision-labs):** GLCM texture features, Huffman coding and connected-component labeling
+- **[Computer Vision Coursework & Projects](https://github.com/Painter121/computer-vision-labs):** AI scene classification, edge detection, HSI color range and image processing labs
 - **[Digital Logic Lab](https://github.com/Painter121/digital-logic-lab-decimal-adder):** Decimal adder circuit in Quartus II with schematic and waveform
 - **[Computer Network Labs](https://github.com/Painter121/computer-network-labs):** Cisco Packet Tracer labs covering subnetting and routing
 - **[Java OOP Labs](https://github.com/Painter121/java-oop-labs):** Object-oriented programming, GUI and file I/O in Java
