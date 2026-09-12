@@ -57,12 +57,14 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/rmuti-dormitory-demo"><img src="https://img.shields.io/badge/RMUTI_Dormitory_System-2F6F52?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="RMUTI Dormitory System"></a><br><br>
+      <a href="https://github.com/Painter121/rmuti-dormitory-demo"><img src="https://img.shields.io/badge/RMUTI_Dormitory_System-2F6F52?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="RMUTI Dormitory System"></a><br>
+      <a href="https://github.com/Painter121/rmuti-dormitory-demo"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       ระบบบริหารงานซ่อมหอพักแบบ Role-based พร้อม <a href="https://painter121.github.io/rmuti-dormitory-demo/">Live Demo</a><br>
       <sub>React · Vite · Tailwind CSS · Mock API</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/database-mini-project-zoo"><img src="https://img.shields.io/badge/Zoo_Database_System-2F6F52?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Zoo Database System"></a><br><br>
+      <a href="https://github.com/Painter121/database-mini-project-zoo"><img src="https://img.shields.io/badge/Zoo_Database_System-2F6F52?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Zoo Database System"></a><br>
+      <a href="https://github.com/Painter121/database-mini-project-zoo"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       ระบบจัดการสวนสัตว์สำหรับโปรเจ็กฐานข้อมูลแบบกลุ่ม<br>
       <sub>Node.js · Express · MySQL</sub>
     </td>
@@ -79,24 +81,28 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/iot-mini-project-soil-moisture"><img src="https://img.shields.io/badge/Smart_Soil_Moisture-2F6F52?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Smart Soil Moisture Monitor"></a><br><br>
+      <a href="https://github.com/Painter121/iot-mini-project-soil-moisture"><img src="https://img.shields.io/badge/Smart_Soil_Moisture-2F6F52?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Smart Soil Moisture Monitor"></a><br>
+      <a href="https://github.com/Painter121/iot-mini-project-soil-moisture"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       ตรวจวัดความชื้นและควบคุมระบบรดน้ำอัตโนมัติ<br>
       <sub>ESP8266 · Blynk · Soil Sensor · Relay</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller"><img src="https://img.shields.io/badge/MicroPython_Fan_Controller-2F6F52?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" alt="MicroPython Fan Controller"></a><br><br>
+      <a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller"><img src="https://img.shields.io/badge/MicroPython_Fan_Controller-2F6F52?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" alt="MicroPython Fan Controller"></a><br>
+      <a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       ควบคุมพัดลมตามอุณหภูมิ เวลา และคำสั่งจาก Keypad<br>
       <sub>MicroPython · Thonny · DHT22 · DS3231 · PWM</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/rfid-smart-access-control"><img src="https://img.shields.io/badge/RFID_Smart_Access-2F6F52?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="RFID Smart Access Control"></a><br><br>
+      <a href="https://github.com/Painter121/rfid-smart-access-control"><img src="https://img.shields.io/badge/RFID_Smart_Access-2F6F52?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="RFID Smart Access Control"></a><br>
+      <a href="https://github.com/Painter121/rfid-smart-access-control"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       ระบบควบคุมการเข้าออกและบันทึกเหตุการณ์ด้วยบัตร RFID<br>
       <sub>ESP8266 · RC522 · LCD · SD Card</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/iot-web-control-labs"><img src="https://img.shields.io/badge/IoT_Web_Control-2F6F52?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="IoT Web Control Labs"></a><br><br>
+      <a href="https://github.com/Painter121/iot-web-control-labs"><img src="https://img.shields.io/badge/IoT_Web_Control-2F6F52?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="IoT Web Control Labs"></a><br>
+      <a href="https://github.com/Painter121/iot-web-control-labs"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       ควบคุมไฟผ่านเว็บพร้อมสถานะอุปกรณ์และ Timer<br>
       <sub>Firebase · Web Control · IoT</sub>
     </td>
@@ -113,12 +119,14 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><img src="https://img.shields.io/badge/Scene_Classification-2F6F52?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Scene Classification"></a><br><br>
+      <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><img src="https://img.shields.io/badge/Scene_Classification-2F6F52?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Scene Classification"></a><br>
+      <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       จำแนกประเภทฉากพร้อมโมเดลที่ฝึกแล้วและ Gradio Demo<br>
       <sub>Python · EfficientNetB0 · Gradio</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/computer-vision-labs"><img src="https://img.shields.io/badge/Computer_Vision_Labs-2F6F52?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="Computer Vision Labs"></a><br><br>
+      <a href="https://github.com/Painter121/computer-vision-labs"><img src="https://img.shields.io/badge/Computer_Vision_Labs-2F6F52?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="Computer Vision Labs"></a><br>
+      <a href="https://github.com/Painter121/computer-vision-labs"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       แบบฝึกหัดด้านคุณลักษณะภาพ การบีบอัด และการแบ่งวัตถุ<br>
       <sub>GLCM · Huffman Coding · Connected Components</sub>
     </td>
@@ -135,12 +143,14 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/data-structures-and-algorithms-labs"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2F6F52?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Data Structures and Algorithms"></a><br><br>
+      <a href="https://github.com/Painter121/data-structures-and-algorithms-labs"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2F6F52?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Data Structures and Algorithms"></a><br>
+      <a href="https://github.com/Painter121/data-structures-and-algorithms-labs"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       ฝึกโครงสร้างข้อมูล อัลกอริทึมการเรียงลำดับ และกราฟ<br>
       <sub>C++ · Linked List · BST · Sorting · Graph MST</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/digital-logic-lab-decimal-adder"><img src="https://img.shields.io/badge/Digital_Logic_Adder-2F6F52?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Digital Logic Decimal Adder"></a><br><br>
+      <a href="https://github.com/Painter121/digital-logic-lab-decimal-adder"><img src="https://img.shields.io/badge/Digital_Logic_Adder-2F6F52?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Digital Logic Decimal Adder"></a><br>
+      <a href="https://github.com/Painter121/digital-logic-lab-decimal-adder"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       วงจรบวกเลขฐานสิบพร้อม Schematic และ Waveform<br>
       <sub>Quartus II · Digital Logic · Simulation</sub>
     </td>
@@ -157,7 +167,8 @@
   </tr>
   <tr>
     <td width="100%" align="center" valign="top">
-      <a href="https://github.com/Painter121/computer-network-labs"><img src="https://img.shields.io/badge/Computer_Network_Labs-2F6F52?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Computer Network Labs"></a><br><br>
+      <a href="https://github.com/Painter121/computer-network-labs"><img src="https://img.shields.io/badge/Computer_Network_Labs-2F6F52?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Computer Network Labs"></a><br>
+      <a href="https://github.com/Painter121/computer-network-labs"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
       แลป Cisco Packet Tracer และประสบการณ์ภาคสนามด้านระบบใยแก้วนำแสง<br>
       <sub>Routing · Subnetting · FTTx · Fusion Splicing · OTDR</sub>
     </td>
