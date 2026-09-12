@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Phuriphat Malison — Computer Engineering Student</title>
+  <desc id="desc">A muted green and black profile banner inspired by software, electronics, and connected systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070d0a"/>
+      <stop offset="0.55" stop-color="#0d1712"/>
+      <stop offset="1" stop-color="#14231b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#315d46"/>
+      <stop offset="1" stop-color="#6f9c82"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#294737" stroke-width="1" opacity="0.28"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="#315d46" stroke-width="2" opacity="0.8"/>
+
+  <g opacity="0.9">
+    <path d="M0 74h120l34 34h90" fill="none" stroke="#315d46" stroke-width="3"/>
+    <path d="M0 226h86l42-42h82" fill="none" stroke="#315d46" stroke-width="3"/>
+    <circle cx="156" cy="108" r="5" fill="#719a83" filter="url(#glow)"/>
+    <circle cx="129" cy="184" r="5" fill="#719a83" filter="url(#glow)"/>
+    <path d="M1200 68h-104l-38 38h-72" fill="none" stroke="#315d46" stroke-width="3"/>
+    <path d="M1200 232h-142l-38-38h-64" fill="none" stroke="#315d46" stroke-width="3"/>
+    <circle cx="1058" cy="106" r="5" fill="#719a83" filter="url(#glow)"/>
+    <circle cx="1020" cy="194" r="5" fill="#719a83" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(248 67)">
+    <rect x="0" y="0" width="7" height="112" rx="3.5" fill="url(#accent)"/>
+    <text x="34" y="48" fill="#edf4ef" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="2">PHURIPHAT MALISON</text>
+    <text x="36" y="87" fill="#95b5a2" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="3">COMPUTER ENGINEERING · RMUTI</text>
+  </g>
+
+  <g transform="translate(354 222)" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5">
+    <g><rect width="156" height="35" rx="17.5" fill="#14271d" stroke="#3d6c52"/><text x="78" y="22" fill="#b8cdbf" text-anchor="middle">WEB DEVELOPMENT</text></g>
+    <g transform="translate(171 0)"><rect width="84" height="35" rx="17.5" fill="#14271d" stroke="#3d6c52"/><text x="42" y="22" fill="#b8cdbf" text-anchor="middle">IoT</text></g>
+    <g transform="translate(270 0)"><rect width="176" height="35" rx="17.5" fill="#14271d" stroke="#3d6c52"/><text x="88" y="22" fill="#b8cdbf" text-anchor="middle">EMBEDDED SYSTEMS</text></g>
+  </g>
+</svg>
