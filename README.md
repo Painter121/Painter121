@@ -51,9 +51,14 @@
 
 <h3>Embedded Systems</h3>
 
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino logo">
+<p>
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" alt="MicroPython">
+  <img src="https://img.shields.io/badge/Thonny-IDE-356B9B?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Thonny IDE">
+</p>
 
-<p><sub>MicroPython · ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub></p>
+<p><strong>ถนัดพัฒนาไมโครคอนโทรลเลอร์ด้วย MicroPython และ Thonny IDE</strong></p>
+
+<p><sub>ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub></p>
 
 </div>
 
