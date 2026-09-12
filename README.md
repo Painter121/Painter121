@@ -157,24 +157,6 @@
   </tr>
 </table>
 
-<br>
-
-<table width="100%">
-  <tr>
-    <th>
-      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/project-networking.svg?v=2" width="1000" alt="Networking and Field Experience"></a>
-    </th>
-  </tr>
-  <tr>
-    <td width="100%" align="center" valign="top">
-      <a href="https://github.com/Painter121/computer-network-labs"><img src="https://img.shields.io/badge/Computer_Network_Labs-2F6F52?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Computer Network Labs"></a><br>
-      <a href="https://github.com/Painter121/computer-network-labs"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
-      แลป Cisco Packet Tracer และประสบการณ์ภาคสนามด้านระบบใยแก้วนำแสง<br>
-      <sub>Routing · Subnetting · FTTx · Fusion Splicing · OTDR</sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Practical Experience
