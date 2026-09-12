@@ -10,22 +10,8 @@
 </p>
 
 <a href="https://github.com/Painter121?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2F6F52?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories"></a>
-<a href="https://painter121.github.io/rmuti-dormitory-demo/"><img src="https://img.shields.io/badge/Featured_Demo-2F6F52?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Featured Demo"></a>
 
 </div>
-
----
-
-## Featured Project
-
-### RMUTI Dormitory System
-
-ระบบรับแจ้งซ่อมและติดตามงานซ่อมหอพักนักศึกษา พัฒนาเป็น Interactive Frontend Showcase ด้วย React และ Vite รองรับหน้าจอตามบทบาทของนักศึกษา ช่างซ่อม เจ้าหน้าที่ และผู้ใช้งานทั่วไป
-
-<a href="https://painter121.github.io/rmuti-dormitory-demo/"><img src="https://img.shields.io/badge/Live_Demo-2F6F52?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Live Demo"></a>
-<a href="https://github.com/Painter121/rmuti-dormitory-demo"><img src="https://img.shields.io/badge/Source_%26_Documentation-182B22?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source and Documentation"></a>
-
-`React` · `Vite` · `Tailwind CSS` · `Responsive UI` · `Mock API`
 
 ---
 
