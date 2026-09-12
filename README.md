@@ -51,12 +51,24 @@
 
 <h3>Embedded Systems</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" alt="MicroPython">
-  <img src="https://img.shields.io/badge/Thonny-IDE-356B9B?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Thonny IDE">
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" width="210" alt="MicroPython"><br>
+      <sub>พัฒนาโปรแกรมสำหรับไมโครคอนโทรลเลอร์</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Thonny-IDE-356B9B?style=for-the-badge&amp;logo=python&amp;logoColor=white" width="210" alt="Thonny IDE"><br>
+      <sub>เขียน ทดสอบ และอัปโหลดโปรแกรม MicroPython</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Arduino-IDE-00878F?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" width="210" alt="Arduino IDE"><br>
+      <sub>พัฒนาและอัปโหลดโปรแกรมสำหรับบอร์ด Arduino และ ESP8266</sub>
+    </td>
+  </tr>
+</table>
 
-<p><strong>ถนัดพัฒนาไมโครคอนโทรลเลอร์ด้วย MicroPython และ Thonny IDE</strong></p>
+<p><strong>ใช้งานได้ทั้ง MicroPython ผ่าน Thonny IDE และ Arduino IDE</strong></p>
 
 <p><sub>ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub></p>
 
