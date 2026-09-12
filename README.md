@@ -49,9 +49,12 @@
 
 ## Projects by Category
 
-### Web Development & Full Stack
-
-<table>
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <img src="https://img.shields.io/badge/WEB_DEVELOPMENT_%26_FULL_STACK-244D3A?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="Web Development and Full Stack">
+    </th>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Painter121/rmuti-dormitory-demo"><img src="https://img.shields.io/badge/RMUTI_Dormitory_System-2F6F52?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="RMUTI Dormitory System"></a><br><br>
@@ -66,9 +69,14 @@
   </tr>
 </table>
 
-### IoT & Embedded Systems
+<br>
 
-<table>
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <img src="https://img.shields.io/badge/IoT_%26_EMBEDDED_SYSTEMS-244D3A?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="IoT and Embedded Systems">
+    </th>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Painter121/iot-mini-project-soil-moisture"><img src="https://img.shields.io/badge/Smart_Soil_Moisture-2F6F52?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Smart Soil Moisture Monitor"></a><br><br>
@@ -95,9 +103,14 @@
   </tr>
 </table>
 
-### Computer Vision & AI
+<br>
 
-<table>
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <img src="https://img.shields.io/badge/COMPUTER_VISION_%26_AI-244D3A?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="Computer Vision and AI">
+    </th>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><img src="https://img.shields.io/badge/Scene_Classification-2F6F52?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Scene Classification"></a><br><br>
@@ -112,9 +125,14 @@
   </tr>
 </table>
 
-### Algorithms & Digital Systems
+<br>
 
-<table>
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">
+      <img src="https://img.shields.io/badge/ALGORITHMS_%26_DIGITAL_SYSTEMS-244D3A?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Algorithms and Digital Systems">
+    </th>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Painter121/data-structures-and-algorithms-labs"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2F6F52?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Data Structures and Algorithms"></a><br><br>
@@ -129,11 +147,16 @@
   </tr>
 </table>
 
-### Networking & Field Experience
+<br>
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <th align="left">
+      <img src="https://img.shields.io/badge/NETWORKING_%26_FIELD_EXPERIENCE-244D3A?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Networking and Field Experience">
+    </th>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <a href="https://github.com/Painter121/computer-network-labs"><img src="https://img.shields.io/badge/Computer_Network_Labs-2F6F52?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Computer Network Labs"></a><br><br>
       แลป Cisco Packet Tracer และประสบการณ์ภาคสนามด้านระบบใยแก้วนำแสง<br>
       <sub>Routing · Subnetting · FTTx · Fusion Splicing · OTDR</sub>
