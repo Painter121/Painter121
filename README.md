@@ -51,8 +51,8 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2" align="left">
-      <img src="https://img.shields.io/badge/WEB_DEVELOPMENT_%26_FULL_STACK-244D3A?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="Web Development and Full Stack">
+    <th colspan="2">
+      <img src="./assets/project-web.svg" width="1000" alt="Web Development and Full Stack">
     </th>
   </tr>
   <tr>
@@ -73,8 +73,8 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2" align="left">
-      <img src="https://img.shields.io/badge/IoT_%26_EMBEDDED_SYSTEMS-244D3A?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="IoT and Embedded Systems">
+    <th colspan="2">
+      <img src="./assets/project-iot.svg" width="1000" alt="IoT and Embedded Systems">
     </th>
   </tr>
   <tr>
@@ -107,8 +107,8 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2" align="left">
-      <img src="https://img.shields.io/badge/COMPUTER_VISION_%26_AI-244D3A?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="Computer Vision and AI">
+    <th colspan="2">
+      <img src="./assets/project-vision.svg" width="1000" alt="Computer Vision and AI">
     </th>
   </tr>
   <tr>
@@ -129,8 +129,8 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2" align="left">
-      <img src="https://img.shields.io/badge/ALGORITHMS_%26_DIGITAL_SYSTEMS-244D3A?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Algorithms and Digital Systems">
+    <th colspan="2">
+      <img src="./assets/project-algorithms.svg" width="1000" alt="Algorithms and Digital Systems">
     </th>
   </tr>
   <tr>
@@ -151,8 +151,8 @@
 
 <table width="100%">
   <tr>
-    <th align="left">
-      <img src="https://img.shields.io/badge/NETWORKING_%26_FIELD_EXPERIENCE-244D3A?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Networking and Field Experience">
+    <th>
+      <img src="./assets/project-networking.svg" width="1000" alt="Networking and Field Experience">
     </th>
   </tr>
   <tr>
