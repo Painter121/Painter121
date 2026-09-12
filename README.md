@@ -1,61 +1,126 @@
-# Phuriphat Malison (Paint)
+<div align="center">
 
-Computer Engineering, RMUTI
+<img src="https://github.com/Painter121.png?size=180" width="150" height="150" alt="Phuriphat Malison profile photo">
 
-สนใจด้าน Web Development, IoT และ Embedded Systems ชอบทำงานที่เชื่อมต่อระหว่างซอฟต์แวร์และฮาร์ดแวร์เข้าด้วยกัน
+<h1>Phuriphat Malison</h1>
 
-- การศึกษา: วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
-- อีเมล: puripatp6@email.com
-- GitHub: Painter121
+<h3>Computer Engineering Student · RMUTI</h3>
+
+<p>
+สนใจการพัฒนา Web Application, IoT และ Embedded Systems<br>
+ชอบสร้างงานที่เชื่อมต่อซอฟต์แวร์ ฮาร์ดแวร์ และประสบการณ์ของผู้ใช้งานเข้าด้วยกัน
+</p>
+
+<a href="https://github.com/Painter121?tab=repositories"><strong>Repositories</strong></a>
+·
+<a href="https://painter121.github.io/rmuti-dormitory-demo/"><strong>Featured Demo</strong></a>
+
+</div>
 
 ---
 
 ## Featured Project
 
-### RMUTI Dormitory System — Completed
+### RMUTI Dormitory System
 
-ระบบรับแจ้งซ่อมและติดตามสถานะงานซ่อมหอพักนักศึกษา พัฒนาเป็น Interactive Frontend Showcase ด้วย React และ Vite โดยใช้ข้อมูลจำลองและไม่เชื่อมต่อระบบจริง
+ระบบรับแจ้งซ่อมและติดตามงานซ่อมหอพักนักศึกษา พัฒนาเป็น Interactive Frontend Showcase ด้วย React และ Vite รองรับหน้าจอตามบทบาทของนักศึกษา ช่างซ่อม เจ้าหน้าที่ และผู้ใช้งานทั่วไป
 
-**[เปิด Live Demo](https://painter121.github.io/rmuti-dormitory-demo/)** · **[ดู Repository](https://github.com/Painter121/rmuti-dormitory-demo)**
+<a href="https://painter121.github.io/rmuti-dormitory-demo/">
+  <img src="https://raw.githubusercontent.com/Painter121/rmuti-dormitory-demo/main/screenshots/landing-page-new.png" width="100%" alt="RMUTI Dormitory System website">
+</a>
 
----
+**[เปิด Live Demo](https://painter121.github.io/rmuti-dormitory-demo/)** · **[ดู Source & Documentation](https://github.com/Painter121/rmuti-dormitory-demo)**
 
-### Technical Skills
-
-- **Languages:** C, C++, Python, Java, JavaScript, HTML/CSS
-- **Hardware & IoT:** MicroPython, ESP8266, RFID, DHT22, PWM
-- **Network:** Cisco Packet Tracer, Subnetting, Routing, Fiber Optic Splicing, OTDR
-- **Web & Backend:** Node.js, Express, React, Vite, Socket.IO, JWT
-- **Database & Tools:** MySQL, Docker Compose, Nginx, Git
+`React` · `Vite` · `Tailwind CSS` · `Responsive UI` · `Mock API`
 
 ---
 
-### Practical Experience
+## Technical Skills
 
-- **ช่างเทคนิคฝึกงาน — บมจ.โทรคมนาคมแห่งชาติ (NT) สาขานางรอง** (พฤษภาคม 2565 – กันยายน 2565 · 630 ชั่วโมง)
-  - ทำงานภาคสนามเกี่ยวกับการเดินสายใยแก้วนำแสง (FTTx)
-  - เชื่อมต่อสายใยแก้วนำแสงด้วยเครื่อง Fusion Splicer
-  - ตรวจเช็กสัญญาณและหาจุดสายขาดด้วยเครื่อง OTDR และ Power Meter
-  - ตรวจเช็กคู่สายบนตู้ OLT
-  - ดูภาพหน้างานจริง: [Computer Network Labs](https://github.com/Painter121/computer-network-labs)
+<div align="center">
+
+<h3>Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="C, C++, Python, Java and JavaScript logos">
+
+<h3>Web Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,vite" alt="HTML, CSS, React, Tailwind CSS, Node.js, Express and Vite logos">
+
+<h3>Data, Deployment & Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,git,github" alt="MySQL, Firebase, Docker, Nginx, Git and GitHub logos">
+
+<h3>Embedded Systems</h3>
+
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino logo">
+
+<p><sub>MicroPython · ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub></p>
+
+</div>
+
+### Engineering & Networking
+
+`Cisco Packet Tracer` · `Subnetting` · `Routing` · `FTTx` · `Fusion Splicing` · `OTDR` · `Digital Logic` · `SolidWorks`
 
 ---
 
-### Course Projects
+## Projects by Category
 
-- **[RMUTI Dormitory System](https://github.com/Painter121/rmuti-dormitory-demo) — Completed:** ระบบแจ้งซ่อมหอพักพร้อม [Live Interactive Demo](https://painter121.github.io/rmuti-dormitory-demo/)
-- **[Computer Vision Scene Classification](https://github.com/Painter121/computer-vision-mini-project-scene-classification):** EfficientNetB0 scene classification with a trained model and Gradio demo
-- **[Zoo Database](https://github.com/Painter121/database-mini-project-zoo):** Zoo management mini project using Node.js, Express and MySQL
-- **[Soil Moisture Monitor](https://github.com/Painter121/iot-mini-project-soil-moisture):** ESP8266 soil moisture monitoring with Blynk and relay control
-- **[Fan Controller](https://github.com/Painter121/microcontroller-mini-project-fan-controller):** MicroPython fan control with DHT22, DS3231, keypad, LCD and PWM
-- **[RFID Smart Access Control](https://github.com/Painter121/rfid-smart-access-control):** NodeMCU ESP8266 RFID reader with RC522, LCD, SD card logging and SolidWorks 3D enclosure
+### Web Development & Full Stack
+
+| Project | Description |
+|---|---|
+| **[RMUTI Dormitory System](https://github.com/Painter121/rmuti-dormitory-demo)** | ระบบบริหารงานซ่อมหอพักแบบ Role-based พร้อม [Live Demo](https://painter121.github.io/rmuti-dormitory-demo/) |
+| **[Zoo Database System](https://github.com/Painter121/database-mini-project-zoo)** | ระบบจัดการสวนสัตว์ด้วย Node.js, Express และ MySQL |
+
+### IoT & Embedded Systems
+
+| Project | Description |
+|---|---|
+| **[Smart Soil Moisture Monitor](https://github.com/Painter121/iot-mini-project-soil-moisture)** | ESP8266, Blynk, เซ็นเซอร์ความชื้น รีเลย์ และระบบรดน้ำอัตโนมัติ |
+| **[MicroPython Fan Controller](https://github.com/Painter121/microcontroller-mini-project-fan-controller)** | ควบคุมพัดลมด้วย DHT22, DS3231, Keypad, LCD และ PWM |
+| **[RFID Smart Access Control](https://github.com/Painter121/rfid-smart-access-control)** | ระบบควบคุมการเข้าออกด้วย ESP8266, RC522, LCD และ SD Card Logging |
+| **[IoT Web Control Labs](https://github.com/Painter121/iot-web-control-labs)** | ควบคุมไฟผ่านเว็บด้วย Firebase พร้อมสถานะอุปกรณ์และ Timer |
+
+### Computer Vision & AI
+
+| Project | Description |
+|---|---|
+| **[Scene Classification](https://github.com/Painter121/computer-vision-mini-project-scene-classification)** | จำแนกประเภทฉากด้วย EfficientNetB0 พร้อมโมเดลที่ฝึกแล้วและ Gradio Demo |
+| **[Computer Vision Labs](https://github.com/Painter121/computer-vision-labs)** | GLCM, Huffman Coding, Connected Components และ Image Processing |
+
+### Algorithms & Digital Systems
+
+| Project | Description |
+|---|---|
+| **[Data Structures & Algorithms](https://github.com/Painter121/data-structures-and-algorithms-labs)** | Linked List, Stack, Binary Search Tree, Sorting และ Graph MST ด้วย C++ |
+| **[Digital Logic Decimal Adder](https://github.com/Painter121/digital-logic-lab-decimal-adder)** | วงจรบวกเลขฐานสิบใน Quartus II พร้อม Schematic และ Waveform |
+
+### Networking & Field Experience
+
+| Project | Description |
+|---|---|
+| **[Computer Network Labs](https://github.com/Painter121/computer-network-labs)** | Cisco Packet Tracer และประสบการณ์ภาคสนามด้านระบบใยแก้วนำแสง |
 
 ---
 
-### Course Labs
+## Practical Experience
 
-- **[Computer Vision Coursework & Projects](https://github.com/Painter121/computer-vision-labs):** AI scene classification, edge detection, HSI color range and image processing labs
-- **[Digital Logic Lab](https://github.com/Painter121/digital-logic-lab-decimal-adder):** Decimal adder circuit in Quartus II with schematic and waveform
-- **[Computer Network Labs](https://github.com/Painter121/computer-network-labs):** รวมแลป Cisco Packet Tracer และภาพการฝึกงานช่างเทคนิคสายใยแก้วนำแสงที่ NT
-- **[IoT Web Control Labs](https://github.com/Painter121/iot-web-control-labs):** Firebase web control, device status and timers
-- **[Data Structures and Algorithms Labs](https://github.com/Painter121/data-structures-and-algorithms-labs):** Linked lists, stack, BST, sorting and graph MST in C++
+### ช่างเทคนิคฝึกงาน — บมจ. โทรคมนาคมแห่งชาติ (NT) สาขานางรอง
+
+**พฤษภาคม 2565 – กันยายน 2565 · 630 ชั่วโมง**
+
+- ปฏิบัติงานภาคสนามเกี่ยวกับระบบใยแก้วนำแสง FTTx
+- เชื่อมต่อสายใยแก้วนำแสงด้วยเครื่อง Fusion Splicer
+- ตรวจสอบสัญญาณและค้นหาจุดสายขาดด้วย OTDR และ Power Meter
+- ตรวจสอบคู่สายและอุปกรณ์ภายในตู้ OLT
+- ดูภาพและรายละเอียดงานได้ที่ [Computer Network Labs](https://github.com/Painter121/computer-network-labs)
+
+---
+
+<div align="center">
+
+<strong>Learning by building software that works with the real world.</strong>
+
+</div>
