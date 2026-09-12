@@ -12,11 +12,11 @@ Computer Engineering, RMUTI
 
 ## Featured Project
 
-### ✅ RMUTI Dormitory System — Completed
+### RMUTI Dormitory System — Completed
 
 ระบบรับแจ้งซ่อมและติดตามสถานะงานซ่อมหอพักนักศึกษา พัฒนาเป็น Interactive Frontend Showcase ด้วย React และ Vite โดยใช้ข้อมูลจำลองและไม่เชื่อมต่อระบบจริง
 
-**[▶ เปิด Live Demo](https://painter121.github.io/rmuti-dormitory-demo/)** · **[ดู Repository](https://github.com/Painter121/rmuti-dormitory-demo)**
+**[เปิด Live Demo](https://painter121.github.io/rmuti-dormitory-demo/)** · **[ดู Repository](https://github.com/Painter121/rmuti-dormitory-demo)**
 
 ---
 
