@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Phuriphat Malison — Computer Engineering Student at RMUTI">
+<h1>Phuriphat Malison</h1>
+
+<h3>Computer Engineering Student · RMUTI</h3>
 
 <p>
 สนใจการพัฒนา Web Application, IoT และ Embedded Systems<br>
