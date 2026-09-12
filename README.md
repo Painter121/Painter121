@@ -7,7 +7,16 @@ Computer Engineering, RMUTI
 - การศึกษา: วิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน
 - อีเมล: puripatp6@email.com
 - GitHub: Painter121
-<!-- - Live Demo: [ระบบแจ้งซ่อมออนไลน์ หอพักนักศึกษา RMUTI](https://painter121.github.io/rmuti-dormitory-demo/) -->
+
+---
+
+## Featured Project
+
+### ✅ RMUTI Dormitory System — Completed
+
+ระบบรับแจ้งซ่อมและติดตามสถานะงานซ่อมหอพักนักศึกษา พัฒนาเป็น Interactive Frontend Showcase ด้วย React และ Vite โดยใช้ข้อมูลจำลองและไม่เชื่อมต่อระบบจริง
+
+**[▶ เปิด Live Demo](https://painter121.github.io/rmuti-dormitory-demo/)** · **[ดู Repository](https://github.com/Painter121/rmuti-dormitory-demo)**
 
 ---
 
@@ -34,6 +43,7 @@ Computer Engineering, RMUTI
 
 ### Course Projects
 
+- **[RMUTI Dormitory System](https://github.com/Painter121/rmuti-dormitory-demo) — Completed:** ระบบแจ้งซ่อมหอพักพร้อม [Live Interactive Demo](https://painter121.github.io/rmuti-dormitory-demo/)
 - **[Computer Vision Scene Classification](https://github.com/Painter121/computer-vision-mini-project-scene-classification):** EfficientNetB0 scene classification with a trained model and Gradio demo
 - **[Zoo Database](https://github.com/Painter121/database-mini-project-zoo):** Zoo management mini project using Node.js, Express and MySQL
 - **[Soil Moisture Monitor](https://github.com/Painter121/iot-mini-project-soil-moisture):** ESP8266 soil moisture monitoring with Blynk and relay control
