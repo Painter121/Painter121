@@ -54,7 +54,6 @@ Computer Engineering, RMUTI
 
 ### Course Labs
 
-- **[Web Programming Lab: BMW Website Clone](https://github.com/Painter121/bmw-web-clone):** Responsive clone of the official BMW international website with custom typography and interactive UI ([Live Demo](https://painter121.github.io/bmw-web-clone/))
 - **[Computer Vision Coursework & Projects](https://github.com/Painter121/computer-vision-labs):** AI scene classification, edge detection, HSI color range and image processing labs
 - **[Digital Logic Lab](https://github.com/Painter121/digital-logic-lab-decimal-adder):** Decimal adder circuit in Quartus II with schematic and waveform
 - **[Computer Network Labs](https://github.com/Painter121/computer-network-labs):** รวมแลป Cisco Packet Tracer และภาพการฝึกงานช่างเทคนิคสายใยแก้วนำแสงที่ NT
