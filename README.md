@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Painter121.png?size=180" width="150" height="150" alt="Phuriphat Malison profile photo">
-
 <h1>Phuriphat Malison</h1>
 
 <h3>Computer Engineering Student · RMUTI</h3>
