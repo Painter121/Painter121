@@ -39,44 +39,74 @@
 
 <h3>Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="C, C++, Python, Java and JavaScript logos">
+<p>
+  <img src="https://img.shields.io/badge/C-16A34A?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-16A34A?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-16A34A?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-16A34A?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-16A34A?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
+</p>
 
 <h3>Web Development</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,vite" alt="HTML, CSS, React, Tailwind CSS, Node.js, Express and Vite logos">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-16A34A?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-16A34A?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-16A34A?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-16A34A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-16A34A?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Vite-16A34A?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
+</p>
 
 <h3>Data, Deployment & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,git,github" alt="MySQL, Firebase, Docker, Nginx, Git and GitHub logos">
+<p>
+  <img src="https://img.shields.io/badge/MySQL-16A34A?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-16A34A?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Docker-16A34A?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-16A34A?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Git-16A34A?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-16A34A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+</p>
 
 <h3>Embedded Systems</h3>
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" width="210" alt="MicroPython"><br>
-      <sub>พัฒนาโปรแกรมสำหรับไมโครคอนโทรลเลอร์</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://img.shields.io/badge/Thonny-IDE-356B9B?style=for-the-badge&amp;logo=python&amp;logoColor=white" width="210" alt="Thonny IDE"><br>
-      <sub>เขียน ทดสอบ และอัปโหลดโปรแกรม MicroPython</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <img src="https://img.shields.io/badge/Arduino-IDE-00878F?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" width="210" alt="Arduino IDE"><br>
-      <sub>พัฒนาและอัปโหลดโปรแกรมสำหรับบอร์ด Arduino และ ESP8266</sub>
-    </td>
-  </tr>
-</table>
-
-<p><strong>ใช้งานได้ทั้ง MicroPython ผ่าน Thonny IDE และ Arduino IDE</strong></p>
-
-<p><sub>ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/MicroPython-16A34A?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" alt="MicroPython">
+  <img src="https://img.shields.io/badge/Thonny_IDE-16A34A?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Thonny IDE">
+  <img src="https://img.shields.io/badge/Arduino_IDE-16A34A?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino IDE">
+  <img src="https://img.shields.io/badge/ESP8266-16A34A?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP8266">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/RFID-16A34A?style=for-the-badge&amp;logo=nfc&amp;logoColor=white" alt="RFID">
+  <img src="https://img.shields.io/badge/DHT22-16A34A?style=for-the-badge&amp;logo=adafruit&amp;logoColor=white" alt="DHT22">
+  <img src="https://img.shields.io/badge/PWM-16A34A?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="PWM">
+  <img src="https://img.shields.io/badge/Sensors-16A34A?style=for-the-badge&amp;logo=homeassistant&amp;logoColor=white" alt="Sensors">
+  <img src="https://img.shields.io/badge/LCD-16A34A?style=for-the-badge&amp;logo=displayport&amp;logoColor=white" alt="LCD">
+  <img src="https://img.shields.io/badge/RTC-16A34A?style=for-the-badge&amp;logo=clockify&amp;logoColor=white" alt="RTC">
+</p>
 
 </div>
 
 ### Engineering & Networking
 
-`Cisco Packet Tracer` · `Subnetting` · `Routing` · `FTTx` · `Fusion Splicing` · `OTDR` · `Digital Logic` · `SolidWorks`
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-16A34A?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Packet Tracer">
+  <img src="https://img.shields.io/badge/Subnetting-16A34A?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Subnetting">
+  <img src="https://img.shields.io/badge/Routing-16A34A?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Routing">
+  <img src="https://img.shields.io/badge/FTTx-16A34A?style=for-the-badge&amp;logo=ethernet&amp;logoColor=white" alt="FTTx">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Fusion_Splicing-16A34A?style=for-the-badge" alt="Fusion Splicing">
+  <img src="https://img.shields.io/badge/OTDR-16A34A?style=for-the-badge" alt="OTDR">
+  <img src="https://img.shields.io/badge/Digital_Logic-16A34A?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Digital Logic">
+  <img src="https://img.shields.io/badge/SolidWorks-16A34A?style=for-the-badge" alt="SolidWorks">
+</p>
+
+</div>
 
 ---
 
