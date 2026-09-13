@@ -1,13 +1,20 @@
 <div align="center">
-  <img src="./assets/github-profile-botanical-dev.svg" width="100%" alt="Phuriphat Malison">
+  <img src="./assets/profile-cover.svg" width="100%" alt="Phuriphat Malison">
 </div>
+
+<p align="center">
+  <a href="mailto:puripatp6@gmail.com" title="Email"><img src="./assets/link-email.svg" width="48" height="48" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Painter121" title="GitHub"><img src="./assets/link-github.svg" width="48" height="48" alt="GitHub"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Painter121?tab=repositories" title="Repositories"><img src="./assets/link-projects.svg" width="48" height="48" alt="Repositories"></a>&nbsp;&nbsp;
+  <a href="#technical-skills" title="Technical Skills"><img src="./assets/link-skills.svg" width="48" height="48" alt="Technical Skills"></a>
+</p>
+
+## Overview
 
 ### Computer Engineering Student · RMUTI
 
 สนใจการพัฒนา Web Application, IoT และ Embedded Systems<br>
 ชอบสร้างงานที่เชื่อมต่อซอฟต์แวร์ ฮาร์ดแวร์ และประสบการณ์ของผู้ใช้งานเข้าด้วยกัน
-
-[ดู Repositories →](https://github.com/Painter121?tab=repositories)
 
 ---
 

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title">
+  <title id="title">Phuriphat Malison</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".4"><stop stop-color="#063c30"/><stop offset=".55" stop-color="#12543b"/><stop offset="1" stop-color="#43815a"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#259260"/><stop offset=".6" stop-color="#74c777"/><stop offset="1" stop-color="#daedab"/></linearGradient>
+    <linearGradient id="mint" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#448b62"/><stop offset="1" stop-color="#c0e7bb"/></linearGradient>
+    <linearGradient id="lime" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#7db35c"/><stop offset="1" stop-color="#e4eab0"/></linearGradient>
+    <clipPath id="frame"><rect width="1600" height="420" rx="26"/></clipPath>
+    <g id="blade"><path d="M0 0C-89-83-54-198 0-284C54-198 89-83 0 0Z"/><path d="M0 13V-258" stroke="#f1f5c6" stroke-opacity=".48" stroke-width="1.4" fill="none"/><path d="M0-28C42-105 33-184 0-284V-28Z" fill="#063e2c" opacity=".12"/></g>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="420" fill="url(#bg)"/>
+    <path d="M925 420C1110 352 1066 52 1262 0H1600V420Z" fill="#b1d894" opacity=".065"/>
+    <path d="M1020 420C1160 328 1142 114 1360 0" fill="none" stroke="#c9dfb5" stroke-opacity=".12"/>
+    <path d="M0 396C280 315 378 512 725 407" fill="none" stroke="#b2d8a2" stroke-opacity=".12"/>
+    <g stroke="#91bd81" stroke-width="2" fill="none"><path d="M1268 462C1271 333 1321 206 1379 40"/><path d="M1278 393Q1212 258 1109 167M1287 357Q1403 308 1519 145"/></g>
+    <use href="#blade" transform="translate(1272 361) rotate(-39) scale(.91)" fill="url(#mint)"/>
+    <use href="#blade" transform="translate(1300 291) rotate(16) scale(1.05)" fill="url(#leaf)"/>
+    <use href="#blade" transform="translate(1297 382) rotate(51) scale(.84)" fill="url(#lime)"/>
+    <use href="#blade" transform="translate(1242 481) rotate(-65) scale(.64)" fill="#56a87c"/>
+    <use href="#blade" transform="translate(1490 497) rotate(29) scale(.74)" fill="#73b98c" opacity=".45"/>
+    <text x="86" y="233" fill="#f1f7e9" font-family="Segoe UI,Arial,sans-serif" font-size="79" font-weight="650" letter-spacing="-2.5">Phuriphat Malison<tspan fill="#bfe891">.</tspan></text>
+  </g>
+</svg>
