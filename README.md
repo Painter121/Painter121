@@ -23,24 +23,32 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>Programming Languages</h4>
+      <br>
+      <strong>Programming Languages</strong><br><br>
       <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="Programming Languages">
+      <br><br>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>Web Development</h4>
+      <br>
+      <strong>Web Development</strong><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,vite" alt="Web Development">
+      <br><br>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>Data, Deployment &amp; Tools</h4>
+      <br>
+      <strong>Data, Deployment &amp; Tools</strong><br><br>
       <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,git,github" alt="Data, Deployment &amp; Tools">
+      <br><br>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>Embedded Systems</h4>
+      <br>
+      <strong>Embedded Systems</strong><br><br>
       <img src="https://skillicons.dev/icons?i=python,arduino" alt="Embedded Systems"><br><br>
       <sub><strong>MicroPython · Thonny IDE · Arduino IDE</strong></sub><br>
       <sub>ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub>
+      <br><br>
     </td>
   </tr>
   <tr>
