@@ -20,8 +20,17 @@
     <use href="#leaf" transform="translate(1367 293) rotate(-42) scale(.85)" fill="#78a88b"/>
     <use href="#leaf" transform="translate(1395 219) rotate(13) scale(.96)" fill="#bfda94"/>
     <use href="#leaf" transform="translate(1360 337) rotate(56) scale(.83)" fill="#a5c183"/>
-    <!-- Small, flat paint can at the unfinished edge. -->
-    <g transform="translate(923 326)">
+    <!-- An unfinished roller pass and equipment below the name. -->
+    <path d="M-10 319H64V316H148V321H256V317H364V321H478V318H574V322H648V367H580V371H460V368H348V372H219V368H99V372H-10Z" fill="#91ae8d"/>
+    <path d="M0 328H631M0 360H633" stroke="#f0f4e5" stroke-width="2" stroke-opacity=".3" stroke-dasharray="91 13 57 8 113 21"/>
+    <path d="M0 390H1010L1002 420H0Z" fill="#e3e8d9"/>
+    <g transform="translate(594 307) rotate(8)">
+      <path d="M66 15H77V49H34V73" fill="none" stroke="#55665b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect width="67" height="29" rx="4" fill="#105740"/>
+      <path d="M5 4H61V9H5Z" fill="#659477"/>
+      <rect x="28" y="68" width="12" height="30" rx="4" fill="#284e3c"/>
+    </g>
+    <g transform="translate(790 311) scale(1.25)">
       <ellipse cx="33" cy="64" rx="49" ry="6" fill="#174c39" opacity=".12"/>
       <path d="M3 9V51C3 65 63 65 63 51V9Z" fill="#a1aba0"/>
       <path d="M3 9V51C3 57 14 60 24 61V13Z" fill="#d3d9cd"/>
