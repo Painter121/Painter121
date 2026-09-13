@@ -13,12 +13,7 @@
     <circle cx="1370" cy="285" r="203" fill="none" stroke="#294b39"/>
     <circle cx="1370" cy="285" r="164" fill="none" stroke="#294b39" stroke-dasharray="3 9"/>
     <path d="M56 50H1544" stroke="#315040"/>
-    <circle cx="67" cy="29" r="4" fill="#bbd99b"/>
-    <text x="82" y="34" fill="#a9bcab" font-family="Consolas,monospace" font-size="14" letter-spacing="2">PAINTER121 / PROFILE</text>
-    <text x="1544" y="34" text-anchor="end" fill="#8aa48e" font-family="Consolas,monospace" font-size="14">&lt;dev /&gt;</text>
     <g font-family="Segoe UI,Arial,sans-serif">
-      <rect x="72" y="99" width="239" height="30" rx="15" fill="#243b2c"/>
-      <text x="91" y="119" fill="#c7dfa8" font-family="Consolas,monospace" font-size="14" letter-spacing="1.5">WEB · IoT · EMBEDDED</text>
       <text x="68" y="215" fill="#f0f2e8" font-size="68" font-weight="650" letter-spacing="-2.5">Phuriphat Malison<tspan fill="#bad98b">.</tspan></text>
       <text x="73" y="262" fill="#b5c7b8" font-size="25">Computer Engineering Student <tspan fill="#6d8f77">/</tspan> RMUTI</text>
       <g fill="#a9bcad" font-family="Leelawadee UI,Tahoma,sans-serif" font-size="22">
@@ -54,6 +49,5 @@
     <path d="m1323 381-17 17 17 17m70-34 17 17-17 17m-29-42-15 50" fill="none" stroke="#c4dda3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M56 500H1544" stroke="#315040"/>
     <text x="73" y="533" fill="#819e88" font-family="Consolas,monospace" font-size="13" letter-spacing="1.4">SOFTWARE + HARDWARE + REAL-WORLD IDEAS</text>
-    <text x="1530" y="533" text-anchor="end" fill="#819e88" font-family="Consolas,monospace" font-size="13">01 / INTRO</text>
   </g>
 </svg>
