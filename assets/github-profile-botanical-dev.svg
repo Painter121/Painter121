@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Phuriphat Malison — Computer Engineering Student · RMUTI</title>
+  <desc id="desc">สนใจการพัฒนา Web Application, IoT และ Embedded Systems ชอบสร้างงานที่เชื่อมต่อซอฟต์แวร์ ฮาร์ดแวร์ และประสบการณ์ของผู้ใช้งานเข้าด้วยกัน — View repositories. Modern forest-green developer banner with geometric leaves and circuit lines.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b7d7bd" stroke-opacity=".045"/></pattern>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8cba93" opacity=".25"/></pattern>
+    <clipPath id="bounds"><rect width="1600" height="560" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1600" height="560" fill="#101f1b"/>
+    <rect width="1600" height="560" fill="url(#grid)"/>
+    <path d="M1110 0H1600V560H1360L1110 310Z" fill="#162c24"/>
+    <circle cx="1370" cy="285" r="203" fill="none" stroke="#294b39"/>
+    <circle cx="1370" cy="285" r="164" fill="none" stroke="#294b39" stroke-dasharray="3 9"/>
+    <path d="M56 50H1544" stroke="#315040"/>
+    <circle cx="67" cy="29" r="4" fill="#bbd99b"/>
+    <text x="82" y="34" fill="#a9bcab" font-family="Consolas,monospace" font-size="14" letter-spacing="2">PAINTER121 / PROFILE</text>
+    <text x="1544" y="34" text-anchor="end" fill="#8aa48e" font-family="Consolas,monospace" font-size="14">&lt;dev /&gt;</text>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <rect x="72" y="99" width="239" height="30" rx="15" fill="#243b2c"/>
+      <text x="91" y="119" fill="#c7dfa8" font-family="Consolas,monospace" font-size="14" letter-spacing="1.5">WEB · IoT · EMBEDDED</text>
+      <text x="68" y="215" fill="#f0f2e8" font-size="68" font-weight="650" letter-spacing="-2.5">Phuriphat Malison<tspan fill="#bad98b">.</tspan></text>
+      <text x="73" y="262" fill="#b5c7b8" font-size="25">Computer Engineering Student <tspan fill="#6d8f77">/</tspan> RMUTI</text>
+      <g fill="#a9bcad" font-family="Leelawadee UI,Tahoma,sans-serif" font-size="22">
+        <text x="73" y="325">สนใจการพัฒนา Web Application, IoT และ Embedded Systems</text>
+        <text x="73" y="362">ชอบสร้างงานที่เชื่อมต่อซอฟต์แวร์ ฮาร์ดแวร์ และประสบการณ์ของผู้ใช้งานเข้าด้วยกัน</text>
+      </g>
+      <rect x="73" y="404" width="232" height="52" rx="9" fill="#c4dda3"/>
+      <text x="97" y="437" fill="#17291c" font-family="Consolas,monospace" font-size="17" font-weight="bold">REPOSITORIES</text>
+      <path d="M263 430h17m-6-6 6 6-6 6" stroke="#17291c" stroke-width="2" fill="none"/>
+    </g>
+    <!-- Flat botanical forms: stems and leaf veins echo circuit traces. -->
+    <g fill="none" stroke="#82a66c" stroke-width="2">
+      <path d="M1250 451V305l91-91V112"/>
+      <path d="M1250 356l-92-92V174"/>
+      <path d="M1250 404l127-127h91V179"/>
+      <path d="M1250 451h189l52-52v-55" stroke="#45644a"/>
+    </g>
+    <g>
+      <path d="M1341 214C1261 218 1247 149 1248 101C1313 110 1355 149 1341 214Z" fill="#527748"/>
+      <path d="M1341 186C1334 113 1382 83 1451 86C1442 146 1409 187 1341 186Z" fill="#b3cb8b"/>
+      <path d="M1158 264C1088 265 1064 215 1069 157C1132 166 1164 207 1158 264Z" fill="#6e915d"/>
+      <path d="M1158 232C1153 179 1182 144 1231 139C1234 192 1208 231 1158 232Z" fill="#91af70"/>
+      <path d="M1365 289C1356 230 1388 199 1439 200C1434 252 1412 282 1365 289Z" fill="#729157"/>
+      <path d="M1398 277C1431 225 1478 224 1523 241C1495 283 1456 302 1398 277Z" fill="#a0b87b"/>
+      <path d="M1250 405C1179 413 1140 373 1136 319C1192 319 1242 346 1250 405Z" fill="#3c6145"/>
+    </g>
+    <g fill="none" stroke="#14291c" stroke-opacity=".5" stroke-width="1.5">
+      <path d="M1341 211l-62-78m64 51 80-71m-165 149-63-77m64 45 47-62m163 115 48-63m-18 57 88-22m-239 146-86-60"/>
+    </g>
+    <g fill="#bdd79a"><circle cx="1341" cy="112" r="4"/><circle cx="1468" cy="179" r="4"/><circle cx="1491" cy="344" r="4"/></g>
+    <rect x="1091" y="393" width="102" height="76" fill="url(#dots)"/>
+    <rect x="1275" y="351" width="167" height="95" rx="12" fill="#10241d" stroke="#668458"/>
+    <path d="m1323 381-17 17 17 17m70-34 17 17-17 17m-29-42-15 50" fill="none" stroke="#c4dda3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M56 500H1544" stroke="#315040"/>
+    <text x="73" y="533" fill="#819e88" font-family="Consolas,monospace" font-size="13" letter-spacing="1.4">SOFTWARE + HARDWARE + REAL-WORLD IDEAS</text>
+    <text x="1530" y="533" text-anchor="end" fill="#819e88" font-family="Consolas,monospace" font-size="13">01 / INTRO</text>
+  </g>
+</svg>

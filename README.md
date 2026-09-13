@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Painter121?tab=repositories">
-    <img src="./assets/github-profile-dev-hero.png" width="100%" alt="Phuriphat Malison — Computer Engineering Student at RMUTI, with a modern developer technology background">
+    <img src="./assets/github-profile-botanical-dev.svg" width="100%" alt="Phuriphat Malison — Computer Engineering Student · RMUTI. สนใจการพัฒนา Web Application, IoT และ Embedded Systems ชอบสร้างงานที่เชื่อมต่อซอฟต์แวร์ ฮาร์ดแวร์ และประสบการณ์ของผู้ใช้งานเข้าด้วยกัน — View repositories">
   </a>
 </div>
 
