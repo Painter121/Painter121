@@ -120,7 +120,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><img src="https://img.shields.io/badge/Scene_Classification-2F6F52?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Scene Classification"></a><br>
-      <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><sub><strong><ins>VIEW PROJECT ↗</ins></strong></sub></a><br><br>
+      <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Scene classification with a trained model and Gradio demo<br>
       <sub>Python · EfficientNetB0 · Gradio</sub>
     </td>
