@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
   <title id="title">Phuriphat Malison</title>
-  <desc id="desc">Ivory name card with a forest-green painted edge and three simple leaves, matching the painter avatar.</desc>
+  <desc id="desc">Ivory name card with a forest-green painted edge, a small paint can and three simple leaves, matching the painter avatar.</desc>
   <defs>
     <clipPath id="frame"><rect width="1600" height="420" rx="26"/></clipPath>
     <pattern id="paintTexture" width="31" height="47" patternUnits="userSpaceOnUse">
@@ -20,6 +20,20 @@
     <use href="#leaf" transform="translate(1367 293) rotate(-42) scale(.85)" fill="#78a88b"/>
     <use href="#leaf" transform="translate(1395 219) rotate(13) scale(.96)" fill="#bfda94"/>
     <use href="#leaf" transform="translate(1360 337) rotate(56) scale(.83)" fill="#a5c183"/>
+    <!-- Small, flat paint can at the unfinished edge. -->
+    <g transform="translate(923 326)">
+      <ellipse cx="33" cy="64" rx="49" ry="6" fill="#174c39" opacity=".12"/>
+      <path d="M3 9V51C3 65 63 65 63 51V9Z" fill="#a1aba0"/>
+      <path d="M3 9V51C3 57 14 60 24 61V13Z" fill="#d3d9cd"/>
+      <path d="M50 12V60C58 58 63 55 63 51V9Z" fill="#7b887e"/>
+      <ellipse cx="33" cy="9" rx="30" ry="9" fill="#d9ded2"/>
+      <ellipse cx="33" cy="9" rx="25" ry="5.7" fill="#105740"/>
+      <path d="M9 10C14 13 20 14 24 14V38C24 44 17 44 17 38V23C17 20 12 20 12 24V28C12 33 7 33 7 28V13Z" fill="#105740"/>
+      <path d="M3 23C-9 58 74 62 63 23" fill="none" stroke="#566d5e" stroke-width="2"/>
+      <circle cx="3" cy="23" r="2.2" fill="#526158"/>
+      <circle cx="63" cy="23" r="2.2" fill="#526158"/>
+      <path d="M-9 63C-12 58-15 58-17 62C-20 68-12 68-9 63Z" fill="#105740"/>
+    </g>
     <text x="90" y="232" fill="#174c39" font-family="Segoe UI,Arial,sans-serif" font-size="77" font-weight="650" letter-spacing="-2.5">Phuriphat Malison<tspan fill="#82a261">.</tspan></text>
   </g>
 </svg>
