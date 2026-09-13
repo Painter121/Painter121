@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <a href="mailto:puripatp6@gmail.com" title="Email"><img src="./assets/link-email.svg" width="48" height="48" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Painter121" title="GitHub"><img src="./assets/link-github.svg" width="48" height="48" alt="GitHub"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Painter121?tab=repositories" title="Repositories"><img src="./assets/link-projects.svg" width="48" height="48" alt="Repositories"></a>&nbsp;&nbsp;
-  <a href="#technical-skills" title="Technical Skills"><img src="./assets/link-skills.svg" width="48" height="48" alt="Technical Skills"></a>
+  <a href="mailto:puripatp6@gmail.com" title="Email"><img src="./assets/btn-email.svg" width="48" height="48" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Painter121" title="GitHub"><img src="./assets/btn-github.svg" width="48" height="48" alt="GitHub"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Painter121?tab=repositories" title="Repositories"><img src="./assets/btn-projects.svg" width="48" height="48" alt="Repositories"></a>&nbsp;&nbsp;
+  <a href="#technical-skills" title="Technical Skills"><img src="./assets/btn-skills.svg" width="48" height="48" alt="Technical Skills"></a>
 </p>
 
 ## Overview
