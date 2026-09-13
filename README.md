@@ -20,33 +20,36 @@
 
 ## Technical Skills
 
-<div align="center">
-
-<h3>Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="C, C++, Python, Java and JavaScript logos">
-
-<h3>Web Development</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,vite" alt="HTML, CSS, React, Tailwind CSS, Node.js, Express and Vite logos">
-
-<h3>Data, Deployment & Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,git,github" alt="MySQL, Firebase, Docker, Nginx, Git and GitHub logos">
-
-<h3>Embedded Systems</h3>
-
-<img src="https://skillicons.dev/icons?i=python,arduino" alt="Python and Arduino logos">
-
-<p><strong>MicroPython · Thonny IDE · Arduino IDE</strong></p>
-
-<p><sub>ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub></p>
-
-</div>
-
-### Engineering & Networking
-
-`Cisco Packet Tracer` · `Subnetting` · `Routing` · `FTTx` · `Fusion Splicing` · `OTDR` · `Digital Logic` · `SolidWorks`
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Programming Languages</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="Programming Languages">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Web Development</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,vite" alt="Web Development">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Data, Deployment &amp; Tools</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,git,github" alt="Data, Deployment &amp; Tools">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Embedded Systems</h4>
+      <img src="https://skillicons.dev/icons?i=python,arduino" alt="Embedded Systems"><br><br>
+      <sub><strong>MicroPython · Thonny IDE · Arduino IDE</strong></sub><br>
+      <sub>ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <strong>Engineering &amp; Networking:</strong>&nbsp;
+      <code>Cisco Packet Tracer</code> · <code>Subnetting</code> · <code>Routing</code> · <code>FTTx</code> · <code>Fusion Splicing</code> · <code>OTDR</code> · <code>Digital Logic</code> · <code>SolidWorks</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
