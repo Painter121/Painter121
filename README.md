@@ -1,16 +1,7 @@
 <div align="center">
-
-<h1>Phuriphat Malison</h1>
-
-<h3>Computer Engineering Student · RMUTI</h3>
-
-<p>
-สนใจการพัฒนา Web Application, IoT และ Embedded Systems<br>
-ชอบสร้างงานที่เชื่อมต่อซอฟต์แวร์ ฮาร์ดแวร์ และประสบการณ์ของผู้ใช้งานเข้าด้วยกัน
-</p>
-
-<a href="https://github.com/Painter121?tab=repositories"><img src="https://img.shields.io/badge/Repositories-2F6F52?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositories"></a>
-
+  <a href="https://github.com/Painter121?tab=repositories">
+    <img src="./assets/github-profile-forest-hero.png" width="100%" alt="Phuriphat Malison — Computer Engineering Student at RMUTI, with a natural forest background">
+  </a>
 </div>
 
 ---
