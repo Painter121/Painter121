@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Phuriphat Malison</title>
+  <desc id="desc">Cream and sage cover with textured leaves, flowing vines and a small code symbol.</desc>
+  <defs>
+    <linearGradient id="paper" x2="1" y2=".65"><stop stop-color="#faf7e9"/><stop offset=".55" stop-color="#edf2df"/><stop offset="1" stop-color="#d2e6cf"/></linearGradient>
+    <linearGradient id="jade" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#26715a"/><stop offset="1" stop-color="#81b994"/></linearGradient>
+    <linearGradient id="sage" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#79a478"/><stop offset="1" stop-color="#c2d39a"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#9fab60"/><stop offset="1" stop-color="#e2d99e"/></linearGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".72" numOctaves="3" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".045"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter>
+    <clipPath id="frame"><rect width="1600" height="420" rx="28"/></clipPath>
+    <g id="leaf">
+      <path d="M0 0C-58-38-49-104 13-164C39-100 64-53 0 0Z"/>
+      <path d="M-3 9C11-47 9-97 13-147 M5-43Q-10-48-22-64 M9-76Q-6-84-15-100 M8-60Q23-66 31-85 M11-103Q22-111 24-124" fill="none" stroke="#f3f1cf" stroke-opacity=".5" stroke-width="1.2"/>
+    </g>
+  </defs>
+  <g clip-path="url(#frame)">
+    <g filter="url(#grain)">
+      <rect width="1600" height="420" fill="url(#paper)"/>
+      <path d="M970 420C1119 354 1083 127 1251 94C1403 65 1476 141 1600 51V420Z" fill="#b2cdaa" opacity=".35"/>
+      <path d="M1183 420C1300 316 1433 401 1600 244V420Z" fill="#8fb8a1" opacity=".25"/>
+      <path d="M-50 38C111 132 218 32 334-28H-50Z" fill="#ccddbc" opacity=".6"/>
+      <g fill="none" stroke="#729676" stroke-width="2.1" stroke-linecap="round">
+        <path d="M1057 448C1108 362 1278 399 1353 293S1352 126 1481 83S1587 27 1630-22"/>
+        <path d="M1362 279C1305 231 1295 186 1213 173"/>
+        <path d="M1320 332C1394 355 1452 305 1510 313S1558 379 1519 371C1489 365 1500 340 1519 348"/>
+        <path d="M-30 370C55 317 111 436 218 371S386 321 446 389" stroke-opacity=".42"/>
+        <path d="M-31 26C68 95 174 97 242 37S323-10 355 11" stroke-opacity=".6"/>
+      </g>
+      <use href="#leaf" transform="translate(1366 274) rotate(-47) scale(1.12)" fill="url(#sage)"/>
+      <use href="#leaf" transform="translate(1403 174) rotate(10) scale(1.04)" fill="url(#jade)"/>
+      <use href="#leaf" transform="translate(1374 258) rotate(61) scale(.96)" fill="url(#gold)"/>
+      <use href="#leaf" transform="translate(1299 352) rotate(-58) scale(.79)" fill="url(#jade)"/>
+      <use href="#leaf" transform="translate(1435 331) rotate(35) scale(.7)" fill="url(#sage)"/>
+      <use href="#leaf" transform="translate(1500 77) rotate(55) scale(.6)" fill="url(#sage)"/>
+      <use href="#leaf" transform="translate(1208 387) rotate(-59) scale(.51)" fill="#94b58f"/>
+      <use href="#leaf" transform="translate(171 76) rotate(-30) scale(.54)" fill="#87aa80"/>
+      <use href="#leaf" transform="translate(93 77) rotate(-67) scale(.58)" fill="#a5bd8b"/>
+      <use href="#leaf" transform="translate(228 386) rotate(45) scale(.39)" fill="#a9bf93" opacity=".65"/>
+      <use href="#leaf" transform="translate(41 355) rotate(-24) scale(.46)" fill="#87ac90" opacity=".65"/>
+    </g>
+    <g fill="#b7a569" opacity=".5"><circle cx="1170" cy="132" r="3"/><circle cx="1138" cy="149" r="2"/><circle cx="1151" cy="113" r="1.5"/><circle cx="1471" cy="389" r="2"/><circle cx="1491" cy="401" r="3"/></g>
+    <g transform="translate(1149 246) rotate(-9)" stroke="#42765d" stroke-width="3.4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".75"><path d="M-19-13Q-29-7-36 0Q-29 7-19 13 M19-13Q29-7 36 0Q29 7 19 13 M8-23Q0 0-8 23"/></g>
+    <text x="94" y="231" fill="#244c3d" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="650" letter-spacing="-2.5">Phuriphat Malison<tspan fill="#839d5c">.</tspan></text>
+  </g>
+</svg>

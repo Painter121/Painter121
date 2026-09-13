@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-cover.svg" width="100%" alt="Phuriphat Malison">
+  <img src="./assets/profile-cover-airy.svg" width="100%" alt="Phuriphat Malison">
 </div>
 
 <p align="center">
