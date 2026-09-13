@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Painter121?tab=repositories">
-    <img src="./assets/github-profile-forest-hero.png" width="100%" alt="Phuriphat Malison — Computer Engineering Student at RMUTI, with a natural forest background">
+    <img src="./assets/github-profile-dev-hero.png" width="100%" alt="Phuriphat Malison — Computer Engineering Student at RMUTI, with a modern developer technology background">
   </a>
 </div>
 
