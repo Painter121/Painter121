@@ -9,6 +9,12 @@
   <a href="#technical-skills" title="Technical Skills"><img src="./assets/btn-skills.svg" width="48" height="48" alt="Technical Skills"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Painter121">
+    <img src="https://komarev.com/ghpvc/?username=Painter121&label=PROFILE+VIEWS&color=105740&style=flat-square" alt="Profile Views">
+  </a>
+</p>
+
 ## Overview
 
 ### Computer Engineering Student · RMUTI
