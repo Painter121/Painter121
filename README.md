@@ -71,13 +71,13 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/rmuti-dormitory-demo"><img src="https://img.shields.io/badge/RMUTI_Dormitory_System-2F6F52?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="RMUTI Dormitory System"></a><br>
+      <a href="https://github.com/Painter121/rmuti-dormitory-demo"><img src="https://img.shields.io/badge/RMUTI_Dormitory_System-105740?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="RMUTI Dormitory System"></a><br>
       <a href="https://github.com/Painter121/rmuti-dormitory-demo"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Role-based dormitory maintenance management system with a <a href="https://painter121.github.io/rmuti-dormitory-demo/">Live Demo</a><br>
       <sub>React · Vite · Tailwind CSS · Mock API</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/database-mini-project-zoo"><img src="https://img.shields.io/badge/Zoo_Database_System-2F6F52?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Zoo Database System"></a><br>
+      <a href="https://github.com/Painter121/database-mini-project-zoo"><img src="https://img.shields.io/badge/Zoo_Database_System-105740?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Zoo Database System"></a><br>
       <a href="https://github.com/Painter121/database-mini-project-zoo"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Zoo management system developed as a collaborative database project<br>
       <sub>Node.js · Express · MySQL</sub>
@@ -95,13 +95,13 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/iot-mini-project-soil-moisture"><img src="https://img.shields.io/badge/Smart_Soil_Moisture-2F6F52?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Smart Soil Moisture Monitor"></a><br>
+      <a href="https://github.com/Painter121/iot-mini-project-soil-moisture"><img src="https://img.shields.io/badge/Smart_Soil_Moisture-105740?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="Smart Soil Moisture Monitor"></a><br>
       <a href="https://github.com/Painter121/iot-mini-project-soil-moisture"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Monitors soil moisture and controls an automatic irrigation system<br>
       <sub>ESP8266 · Blynk · Soil Sensor · Relay</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller"><img src="https://img.shields.io/badge/MicroPython_Fan_Controller-2F6F52?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" alt="MicroPython Fan Controller"></a><br>
+      <a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller"><img src="https://img.shields.io/badge/MicroPython_Fan_Controller-105740?style=for-the-badge&amp;logo=micropython&amp;logoColor=white" alt="MicroPython Fan Controller"></a><br>
       <a href="https://github.com/Painter121/microcontroller-mini-project-fan-controller"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Controls fan operation by temperature, schedule, and keypad input<br>
       <sub>MicroPython · Thonny · DHT22 · DS3231 · PWM</sub>
@@ -109,13 +109,13 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/rfid-smart-access-control"><img src="https://img.shields.io/badge/RFID_Smart_Access-2F6F52?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="RFID Smart Access Control"></a><br>
+      <a href="https://github.com/Painter121/rfid-smart-access-control"><img src="https://img.shields.io/badge/RFID_Smart_Access-105740?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="RFID Smart Access Control"></a><br>
       <a href="https://github.com/Painter121/rfid-smart-access-control"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       RFID access control system with event logging<br>
       <sub>ESP8266 · RC522 · LCD · SD Card</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/iot-web-control-labs"><img src="https://img.shields.io/badge/IoT_Web_Control-2F6F52?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="IoT Web Control Labs"></a><br>
+      <a href="https://github.com/Painter121/iot-web-control-labs"><img src="https://img.shields.io/badge/IoT_Web_Control-105740?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="IoT Web Control Labs"></a><br>
       <a href="https://github.com/Painter121/iot-web-control-labs"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Web-based light control with device status and timer<br>
       <sub>Firebase · Web Control · IoT</sub>
@@ -133,13 +133,13 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><img src="https://img.shields.io/badge/Scene_Classification-2F6F52?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Scene Classification"></a><br>
+      <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><img src="https://img.shields.io/badge/Scene_Classification-105740?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Scene Classification"></a><br>
       <a href="https://github.com/Painter121/computer-vision-mini-project-scene-classification"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Scene classification with a trained model and Gradio demo<br>
       <sub>Python · EfficientNetB0 · Gradio</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/computer-vision-labs"><img src="https://img.shields.io/badge/Computer_Vision_Labs-2F6F52?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="Computer Vision Labs"></a><br>
+      <a href="https://github.com/Painter121/computer-vision-labs"><img src="https://img.shields.io/badge/Computer_Vision_Labs-105740?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="Computer Vision Labs"></a><br>
       <a href="https://github.com/Painter121/computer-vision-labs"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Image feature extraction, compression, and object segmentation labs<br>
       <sub>GLCM · Huffman Coding · Connected Components</sub>
@@ -157,13 +157,13 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/data-structures-and-algorithms-labs"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2F6F52?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Data Structures and Algorithms"></a><br>
+      <a href="https://github.com/Painter121/data-structures-and-algorithms-labs"><img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-105740?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="Data Structures and Algorithms"></a><br>
       <a href="https://github.com/Painter121/data-structures-and-algorithms-labs"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Data structures, sorting algorithms, and graph exercises<br>
       <sub>C++ · Linked List · BST · Sorting · Graph MST</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Painter121/digital-logic-lab-decimal-adder"><img src="https://img.shields.io/badge/Digital_Logic_Adder-2F6F52?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Digital Logic Decimal Adder"></a><br>
+      <a href="https://github.com/Painter121/digital-logic-lab-decimal-adder"><img src="https://img.shields.io/badge/Digital_Logic_Adder-105740?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Digital Logic Decimal Adder"></a><br>
       <a href="https://github.com/Painter121/digital-logic-lab-decimal-adder"><sub><strong><ins>VIEW PROJECT </ins></strong></sub></a><br><br>
       Decimal adder circuit with schematics and simulation waveforms<br>
       <sub>Quartus II · Digital Logic · Simulation</sub>
