@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Phuriphat Malison</title>
+  <desc id="desc">Ivory name card with a forest-green painted edge and three simple leaves, matching the painter avatar.</desc>
+  <defs>
+    <clipPath id="frame"><rect width="1600" height="420" rx="26"/></clipPath>
+    <pattern id="paintTexture" width="31" height="47" patternUnits="userSpaceOnUse">
+      <path d="M3 2v16M19 28v14" stroke="#eff4e3" stroke-width=".8" opacity=".035"/>
+      <path d="M9 31v7M27 7v16" stroke="#082d22" stroke-width=".7" opacity=".04"/>
+    </pattern>
+    <path id="paint" d="M1163-12L1147 63L1128 61L1118 124L1101 123L1091 195L1075 193L1061 265L1047 264L1032 347L1016 345L999 432H1620V-12Z"/>
+    <g id="leaf"><path d="M0 0C-51-35-58-105 8-189C47-116 58-45 0 0Z"/><path d="M0 0Q14-86 8-189" fill="none" stroke="#f0f4e5" stroke-opacity=".58" stroke-width="1.5"/></g>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="420" fill="#f0f4e5"/>
+    <path d="M1140-8L1121 68L1103 66L1092 130L1077 128L1065 202L1049 200L1035 275L1022 273L1007 355L990 352L975 427H1600V-8Z" fill="#cfdbc2"/>
+    <use href="#paint" fill="#105740"/>
+    <use href="#paint" fill="url(#paintTexture)"/>
+    <path d="M1153 25l-6 26M1091 233l-5 26M1030 369l-5 26" fill="none" stroke="#f0f4e5" stroke-opacity=".42" stroke-width="2"/>
+    <g fill="none" stroke="#c0d399" stroke-width="2" stroke-linecap="round"><path d="M1338 423C1351 341 1353 256 1414 111"/><path d="M1367 295Q1303 262 1269 221M1357 335Q1435 313 1477 275"/></g>
+    <use href="#leaf" transform="translate(1367 293) rotate(-42) scale(.85)" fill="#78a88b"/>
+    <use href="#leaf" transform="translate(1395 219) rotate(13) scale(.96)" fill="#bfda94"/>
+    <use href="#leaf" transform="translate(1360 337) rotate(56) scale(.83)" fill="#a5c183"/>
+    <text x="90" y="232" fill="#174c39" font-family="Segoe UI,Arial,sans-serif" font-size="77" font-weight="650" letter-spacing="-2.5">Phuriphat Malison<tspan fill="#82a261">.</tspan></text>
+  </g>
+</svg>
