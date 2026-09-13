@@ -66,7 +66,7 @@
 <table width="100%">
   <tr>
     <th colspan="2">
-      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/section-web.svg" width="1000" alt="Web Development and Full Stack"></a>
+      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/banner-web.svg" width="1000" alt="Web Development and Full Stack"></a>
     </th>
   </tr>
   <tr>
@@ -90,7 +90,7 @@
 <table width="100%">
   <tr>
     <th colspan="2">
-      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/section-iot.svg" width="1000" alt="IoT and Embedded Systems"></a>
+      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/banner-iot.svg" width="1000" alt="IoT and Embedded Systems"></a>
     </th>
   </tr>
   <tr>
@@ -128,7 +128,7 @@
 <table width="100%">
   <tr>
     <th colspan="2">
-      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/section-vision.svg" width="1000" alt="Computer Vision and AI"></a>
+      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/banner-vision.svg" width="1000" alt="Computer Vision and AI"></a>
     </th>
   </tr>
   <tr>
@@ -152,7 +152,7 @@
 <table width="100%">
   <tr>
     <th colspan="2">
-      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/section-algorithms.svg" width="1000" alt="Algorithms and Digital Systems"></a>
+      <a href="https://github.com/Painter121?tab=repositories"><img src="./assets/banner-algorithms.svg" width="1000" alt="Algorithms and Digital Systems"></a>
     </th>
   </tr>
   <tr>
