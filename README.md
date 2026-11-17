@@ -45,7 +45,7 @@
     <td width="50%" align="center" valign="top">
       <br>
       <strong>Data, Deployment &amp; Tools</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,git,github" alt="Data, Deployment &amp; Tools">
+      <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,git,github" alt="Data, Deployment &amp; Tools">&nbsp;<img src="./assets/icon-apps-script.svg" width="48" height="48" alt="Google Apps Script" title="Google Apps Script">
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
