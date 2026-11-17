@@ -51,7 +51,7 @@
     <td width="50%" align="center" valign="top">
       <br>
       <strong>Embedded Systems</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=python,arduino" alt="Embedded Systems"><br><br>
+      <img src="https://skillicons.dev/icons?i=python,arduino" alt="Embedded Systems">&nbsp;<img src="./assets/icon-thonny.svg" width="48" height="48" alt="Thonny IDE" title="Thonny IDE"><br><br>
       <sub><strong>MicroPython · Thonny IDE · Arduino IDE</strong></sub><br>
       <sub>ESP8266 · RFID · DHT22 · PWM · Sensors · LCD · RTC</sub>
       <br><br>
